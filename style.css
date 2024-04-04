@@ -4,3 +4,8 @@ body {
     margin-left: 10%;
     margin-right: 10%;
 }
+iframe, a {
+    display: block;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
